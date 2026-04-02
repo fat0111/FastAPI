@@ -1,0 +1,43 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtual environments
+venv/
+.venv/
+env/
+bin/
+include/
+lib/
+
+# ai models & weights (large files)
+models/
+*.safetensors
+*.bin
+*.pt
+*.h5
+*.onnx
+
+# environment variables
+.env*
+!.env.example
+
+# testing
+.pytest_cache/
+coverage/
+.coverage
+htmlcov/
+
+# editors & ides
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# misc
+.DS_Store
+Thumbs.db
+*.log
