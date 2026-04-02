@@ -1,15 +1,13 @@
-# 🎁 [LAB 1] - BLIND BOX TRAVELLING API
-> **Unveiling the Unseen: An AI-Powered API for Mysterious Travel Discoveries.**
+# 🎁 [LAB 1] - FAST API
 
-Ứng dụng Web API sử dụng trí tuệ nhân tạo để sinh nội dung quảng bá địa điểm du lịch bất ngờ theo phong cách "Hộp mù" (Blind Box).
+
+Ứng dụng API sử dụng trí tuệ nhân tạo để sinh nội dung quảng bá địa điểm du lịch bất ngờ theo phong cách "Hộp mù" (Blind Box).
 
 ## 👤 1. Thông tin sinh viên
 * **Họ và tên:** Đinh Tiến Phát
 * **Mã số sinh viên:** 24120405
 * **Môn học:** Tư Duy Tính Toán
 * **Giảng viên thực hành:** Lê Đức Khoan
-* 
-
 ---
 
 ## 🤖 2. Tên mô hình và liên kết
@@ -78,8 +76,8 @@ Hệ thống sử dụng **FastAPI** với tài liệu trực quan tại `http:/
 ## 🎬 7. Liên kết video demo
 Video mô tả chi tiết cấu trúc mã nguồn, quá trình cài đặt và chạy thử nghiệm thực tế hệ thống API:
 
-👉 **[Bấm vào đây để xem Video Demo của Phát]**
-*(Link: `[Dán link YouTube hoặc Google Drive của bạn vào đây]`)*
+👉 ****
+
 
 ---
 *Dự án được thực hiện trong khuôn khổ bài tập Lab 1 môn Tư Duy Tính Toán.*
