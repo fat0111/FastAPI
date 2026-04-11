@@ -74,10 +74,13 @@ Hệ thống sử dụng **FastAPI** với tài liệu trực quan tại `http:/
 ---
 
 ## 🎬 7. Liên kết video demo
-Video mô tả chi tiết cấu trúc mã nguồn, quá trình cài đặt và chạy thử nghiệm thực tế hệ thống API:
 
-👉 ****
+https://github.com/user-attachments/assets/03935d6b-d6cd-40ea-82ce-5bc78bf90712
 
 
 ---
-*Dự án được thực hiện trong khuôn khổ bài tập Lab 1 môn Tư Duy Tính Toán.*
+
+
+
+
+
