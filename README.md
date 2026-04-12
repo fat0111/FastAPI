@@ -75,7 +75,10 @@ Hệ thống sử dụng **FastAPI** với tài liệu trực quan tại `http:/
 
 ## 🎬 7. Liên kết video demo
 
-https://github.com/user-attachments/assets/03935d6b-d6cd-40ea-82ce-5bc78bf90712
+
+
+https://github.com/user-attachments/assets/793d096f-ad47-4647-88eb-83214e7845c4
+
 
 
 ---
